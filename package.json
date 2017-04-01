@@ -1,0 +1,22 @@
+{
+  "name": "angular-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/run2016ww/angular-learn.git"
+  },
+  "author": "dr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/run2016ww/angular-learn/issues"
+  },
+  "homepage": "https://github.com/run2016ww/angular-learn#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
